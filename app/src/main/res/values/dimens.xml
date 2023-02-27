@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_padrao">16dp</dimen>
+    <dimen name="margem_entre_elementos">8dp</dimen>
+    <dimen name="margem_padrao">16dp</dimen>
+    <dimen name="radius_card">4dp</dimen>
+    <dimen name="size_text">18sp</dimen>
+    <dimen name="elevacao_pequena">4dp</dimen>
+</resources>
